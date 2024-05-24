@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BlogApp</string>
+    <string name="titulo_do_post">Título</string>
+    <string name="descricao_do_post">Descrição</string>
+    <string name="valor_vazio">Entre um valor válido para %s</string>
+    <string name="erro_servidor">Erro ao conectar com o servidor!</string>
+    <string name="novo_post">Novo Post!</string>
+    <string name="blog_app">Blog App</string>
+    <string name="titulo">Título</string>
+    <string name="descricao">Descrição</string>
+    <string name="adicionar_post">Adicionar Post</string>
+</resources>
